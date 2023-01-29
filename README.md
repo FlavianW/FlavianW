@@ -1,7 +1,7 @@
 🔭IT Student
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x36h699yszf11n1kedeldv6fg&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x36h699yszf11n1kedeldv6fg&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
 
 
 
