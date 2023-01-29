@@ -1,4 +1,4 @@
-🔭IT Student
+🔭élève en BUT informatique, Alternance développeur Web
 
 
 ## 🌐 Réseaux Sociaux:
