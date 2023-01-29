@@ -11,7 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FlavianW&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavianW&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=FlavianW&icon=1&color=0)](https://visitcount.itsvg.in)
-
+---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x36h699yszf11n1kedeldv6fg&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/FlavianW)
