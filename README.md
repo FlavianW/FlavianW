@@ -1,4 +1,4 @@
-🔭élève en BUT informatique (2eme année), Alternance développeur Web
+🔭élève en BUT informatique (3eme année), Alternance développeur Web
 
 
 ## 🌐 Réseaux Sociaux:
